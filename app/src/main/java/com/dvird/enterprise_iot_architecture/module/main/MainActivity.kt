@@ -1,7 +1,8 @@
-package com.dvird.enterprise_iot_architecture
+package com.dvird.enterprise_iot_architecture.module.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.dvird.enterprise_iot_architecture.R
 
 class MainActivity : AppCompatActivity() {
 
